@@ -29,3 +29,15 @@ h1{
     padding-top: 2px;
 
 }
+img{
+    height: 220px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+img:hover{
+    image-shadow: #666666;
+    box-shadow:2px 2px 4px #2e2e2e;
+   
+}

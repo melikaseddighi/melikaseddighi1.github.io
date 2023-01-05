@@ -64,3 +64,45 @@ h6:hover{
     cursor: pointer;
     
 }
+ul{
+    padding-left: 20px;
+    padding-top: 6px;
+    padding-right:20px;
+}
+.play,
+.back,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+ul.roller{
+    margin-left: -20px;
+    margin-right: 147px;
+    
+    display: inline;
+}
+
+.play,
+.back,
+.for{
+    border-color: #bebebe;
+}
+.current-time,
+.song-duration{
+    font-size: 15px;
+}
+
+.song-duration{
+    position: absolute;
+    right: 0;
+}
+span{
+    color: #ffffff;
+}
+input{
+    width: 220px;
+    height: 7px;
+    margin-left: 10px;
+}
